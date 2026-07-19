@@ -1,5 +1,5 @@
 // --- Backend Configuration ---
-const BASE_URL = "https://amazonclone2-4.onrender.com";
+const BASE_URL = "https://amazonclone2-5.onrender.com";
 
 // --- Mock Product Database ---
 const productsDb = {
