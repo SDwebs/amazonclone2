@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="180" viewBox="0 0 160 180">
+  <rect width="100%" height="100%" fill="#f8f9fa"/>
+  <!-- Headband -->
+  <path d="M40,90 C40,40 120,40 120,90" fill="none" stroke="#222" stroke-width="8" stroke-linecap="round"/>
+  <!-- Ear cups -->
+  <rect x="25" y="80" width="22" height="40" rx="10" fill="#444" stroke="#222" stroke-width="2"/>
+  <rect x="113" y="80" width="22" height="40" rx="10" fill="#444" stroke="#222" stroke-width="2"/>
+  <!-- Metallic connector -->
+  <line x1="36" y1="80" x2="36" y2="95" stroke="#aaa" stroke-width="4"/>
+  <line x1="124" y1="80" x2="124" y2="95" stroke="#aaa" stroke-width="4"/>
+</svg>

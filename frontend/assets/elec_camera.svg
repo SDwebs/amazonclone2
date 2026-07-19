@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="180" viewBox="0 0 160 180">
+  <rect width="100%" height="100%" fill="#f8f9fa"/>
+  <!-- Camera body -->
+  <rect x="25" y="60" width="110" height="70" rx="8" fill="#333" stroke="#222" stroke-width="2"/>
+  <!-- Top dials -->
+  <rect x="35" y="52" width="18" height="8" rx="1" fill="#111"/>
+  <rect x="105" y="52" width="20" height="8" rx="1" fill="#111"/>
+  <!-- Red dot -->
+  <circle cx="115" cy="72" r="3" fill="#e74c3c"/>
+  <!-- Lens -->
+  <circle cx="80" cy="95" r="30" fill="#222" stroke="#555" stroke-width="3"/>
+  <circle cx="80" cy="95" r="20" fill="#111"/>
+  <circle cx="80" cy="95" r="10" fill="#0c1020"/>
+  <circle cx="85" cy="90" r="4" fill="#fff" opacity="0.6"/>
+</svg>

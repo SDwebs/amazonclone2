@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4e54c8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8f94fb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#grad)" />
+  
+  <!-- Console Controller Icon -->
+  <rect x="750" y="180" width="340" height="200" rx="100" fill="#ffffff" opacity="0.95" stroke="#333" stroke-width="4"/>
+  <!-- D-Pad -->
+  <path d="M830,280 L850,280 L850,260 L870,260 L870,280 L890,280 L890,300 L870,300 L870,320 L850,320 L850,300 L830,300 Z" fill="#4e54c8"/>
+  <!-- Buttons -->
+  <circle cx="970" cy="270" r="15" fill="#ff5858"/>
+  <circle cx="1000" cy="290" r="15" fill="#ffb800"/>
+  <circle cx="970" cy="310" r="15" fill="#00e5ff"/>
+  <circle cx="940" cy="290" r="15" fill="#00ff66"/>
+  <!-- Thumbsticks -->
+  <circle cx="890" cy="330" r="30" fill="#ccc" stroke="#888" stroke-width="3"/>
+  <circle cx="950" cy="330" r="30" fill="#ccc" stroke="#888" stroke-width="3"/>
+  
+  <text x="80" y="150" font-family="'Outfit', sans-serif" font-size="48" font-weight="800" fill="#ffffff">LEVEL UP YOUR SETUP</text>
+  <text x="80" y="210" font-family="'Outfit', sans-serif" font-size="32" font-weight="700" fill="#ffd814">Consoles, Accessories & PC Gear</text>
+</svg>

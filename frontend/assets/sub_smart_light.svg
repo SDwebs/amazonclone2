@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Bulb Glass -->
+  <path d="M100,30 C65,30 65,85 80,110 L85,135 L115,135 L120,110 C135,85 135,30 100,30 Z" fill="#ffd814" opacity="0.9"/>
+  <!-- Screw base -->
+  <rect x="85" y="135" width="30" height="8" rx="2" fill="#aaa"/>
+  <rect x="87" y="143" width="26" height="8" rx="2" fill="#888"/>
+  <rect x="89" y="151" width="22" height="8" rx="2" fill="#666"/>
+  <path d="M92,159 L108,159 L100,167 Z" fill="#444"/>
+  <!-- Glow effect -->
+  <circle cx="100" cy="75" r="45" fill="#ffffff" opacity="0.3" filter="blur(5px)"/>
+</svg>
