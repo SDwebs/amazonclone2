@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Body -->
+  <rect x="65" y="30" width="70" height="140" rx="8" fill="#ffffff" stroke="#ddd" stroke-width="2"/>
+  <rect x="65" y="30" width="70" height="65" rx="8" fill="#1a1a1a"/>
+  <!-- Camera lens -->
+  <circle cx="100" cy="62" r="18" fill="#333" stroke="#555" stroke-width="2"/>
+  <circle cx="100" cy="62" r="8" fill="#111"/>
+  <circle cx="103" cy="59" r="3" fill="#fff" opacity="0.7"/>
+  <!-- Doorbell Button -->
+  <circle cx="100" cy="130" r="22" fill="#f0f0f0" stroke="#ccc" stroke-width="2"/>
+  <circle cx="100" cy="130" r="18" fill="none" stroke="#00aaff" stroke-width="3"/>
+</svg>
