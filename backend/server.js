@@ -51,8 +51,8 @@ initDb().then(() => {
     console.log('');
     console.log('  Amazon Clone Backend is running!');
     console.log('  ─────────────────────────────────────');
-    console.log(`  Frontend:  https://amazonclone2-1.onrender.com`);
-    console.log(`  API base:  https://amazonclone2-1.onrender.com/api`);
+    console.log(`  Frontend:  https://amazonclone2-3-xa6s.onrender.com`);
+    console.log(`  API base: https://amazonclone2-5.onrender.com/api`);
     console.log('');
   });
 }).catch(err => {
