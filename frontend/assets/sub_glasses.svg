@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
   <!-- Frame -->
   <path d="M30,90 C30,75 75,70 90,85 C105,70 150,75 150,90 C150,115 115,125 95,110 C75,125 30,115 30,90 Z" fill="#222"/>
@@ -9,4 +10,17 @@
   <polygon points="105,85 125,80 110,105" fill="#fff" opacity="0.3"/>
   <!-- Bridge -->
   <rect x="85" y="87" width="10" height="6" fill="#222"/>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Frame -->
+  <path d="M30,90 C30,75 75,70 90,85 C105,70 150,75 150,90 C150,115 115,125 95,110 C75,125 30,115 30,90 Z" fill="#222"/>
+  <!-- Left Lens -->
+  <path d="M36,90 C36,79 70,76 84,88 C80,105 50,115 36,90 Z" fill="#555"/>
+  <polygon points="45,85 65,80 50,105" fill="#fff" opacity="0.3"/>
+  <!-- Right Lens -->
+  <path d="M96,88 C110,76 144,79 144,90 C130,115 100,105 96,88 Z" fill="#555"/>
+  <polygon points="105,85 125,80 110,105" fill="#fff" opacity="0.3"/>
+  <!-- Bridge -->
+  <rect x="85" y="87" width="10" height="6" fill="#222"/>
+>>>>>>> 02725e5a37a609bd0b908f5659df73bb19141f88
 </svg>

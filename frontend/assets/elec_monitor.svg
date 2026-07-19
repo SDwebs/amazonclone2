@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="180" viewBox="0 0 160 180">
   <rect width="100%" height="100%" fill="#f8f9fa"/>
   <!-- Screen bezel -->
@@ -9,4 +10,17 @@
   <!-- Image on screen -->
   <circle cx="80" cy="80" r="20" fill="#e74c3c" opacity="0.8"/>
   <polygon points="50,110 80,75 110,110" fill="#2ecc71" opacity="0.7"/>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="180" viewBox="0 0 160 180">
+  <rect width="100%" height="100%" fill="#f8f9fa"/>
+  <!-- Screen bezel -->
+  <rect x="15" y="45" width="130" height="80" rx="4" fill="#111" stroke="#333" stroke-width="2"/>
+  <rect x="18" y="48" width="124" height="71" rx="2" fill="#0c1020"/>
+  <!-- Stand -->
+  <path d="M75,125 L70,150 L90,150 L85,125 Z" fill="#222"/>
+  <ellipse cx="80" cy="150" rx="30" ry="6" fill="#111"/>
+  <!-- Image on screen -->
+  <circle cx="80" cy="80" r="20" fill="#e74c3c" opacity="0.8"/>
+  <polygon points="50,110 80,75 110,110" fill="#2ecc71" opacity="0.7"/>
+>>>>>>> 02725e5a37a609bd0b908f5659df73bb19141f88
 </svg>
