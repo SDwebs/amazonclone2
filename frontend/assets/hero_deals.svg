@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -28,35 +27,4 @@
   <!-- Text highlights -->
   <text x="80" y="150" font-family="'Outfit', sans-serif" font-size="48" font-weight="800" fill="#ffd814">40% OFF</text>
   <text x="80" y="210" font-family="'Outfit', sans-serif" font-size="32" font-weight="700" fill="#ffffff">Smart Entertainment Deals</text>
-=======
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f2027;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#203a43;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2c5364;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#grad)" />
-  
-  <!-- Stylized TV representation -->
-  <rect x="750" y="150" width="350" height="220" rx="10" fill="#111" stroke="#444" stroke-width="6"/>
-  <rect x="760" y="160" width="330" height="200" rx="4" fill="#0d1b2a"/>
-  <!-- TV Stand -->
-  <path d="M900,370 L900,420 L950,420 L950,370 Z" fill="#333"/>
-  <ellipse cx="925" cy="420" rx="60" ry="10" fill="#222"/>
-  
-  <!-- Glowing effects on TV -->
-  <circle cx="925" cy="260" r="60" fill="#ffd814" opacity="0.15" filter="blur(20px)"/>
-  <polygon points="900,220 960,260 900,300" fill="#ffd814" opacity="0.8"/>
-  
-  <!-- Speaker bar -->
-  <rect x="780" y="440" width="290" height="25" rx="5" fill="#1e272c" stroke="#111" stroke-width="2"/>
-  <circle cx="795" cy="452" r="4" fill="#00ff00"/>
-  <circle cx="1055" cy="452" r="4" fill="#333"/>
-  
-  <!-- Text highlights -->
-  <text x="80" y="150" font-family="'Outfit', sans-serif" font-size="48" font-weight="800" fill="#ffd814">40% OFF</text>
-  <text x="80" y="210" font-family="'Outfit', sans-serif" font-size="32" font-weight="700" fill="#ffffff">Smart Entertainment Deals</text>
->>>>>>> 02725e5a37a609bd0b908f5659df73bb19141f88
 </svg>

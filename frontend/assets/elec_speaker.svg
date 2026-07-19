@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="180" viewBox="0 0 160 180">
   <rect width="100%" height="100%" fill="#f8f9fa"/>
   <!-- Speaker Body -->
@@ -24,31 +23,4 @@
   <circle cx="96" cy="96" r="4" fill="#fff" opacity="0.3"/>
   <!-- Brand logo -->
   <text x="80" y="130" font-family="'Outfit', sans-serif" font-size="10" font-weight="700" fill="#ffffff" text-anchor="middle">SOUNDBASS</text>
-=======
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="180" viewBox="0 0 160 180">
-  <rect width="100%" height="100%" fill="#f8f9fa"/>
-  <!-- Speaker Body -->
-  <rect x="40" y="40" width="80" height="100" rx="15" fill="#cc0c39" stroke="#990022" stroke-width="2"/>
-  <!-- Grill effect -->
-  <rect x="48" y="48" width="64" height="65" rx="10" fill="#111" opacity="0.9"/>
-  <!-- Sound dots -->
-  <circle cx="60" cy="60" r="4" fill="#fff" opacity="0.3"/>
-  <circle cx="72" cy="60" r="4" fill="#fff" opacity="0.3"/>
-  <circle cx="84" cy="60" r="4" fill="#fff" opacity="0.3"/>
-  <circle cx="96" cy="60" r="4" fill="#fff" opacity="0.3"/>
-  <circle cx="60" cy="72" r="4" fill="#fff" opacity="0.3"/>
-  <circle cx="72" cy="72" r="4" fill="#fff" opacity="0.3"/>
-  <circle cx="84" cy="72" r="4" fill="#fff" opacity="0.3"/>
-  <circle cx="96" cy="72" r="4" fill="#fff" opacity="0.3"/>
-  <circle cx="60" cy="84" r="4" fill="#fff" opacity="0.3"/>
-  <circle cx="72" cy="84" r="4" fill="#fff" opacity="0.3"/>
-  <circle cx="84" cy="84" r="4" fill="#fff" opacity="0.3"/>
-  <circle cx="96" cy="84" r="4" fill="#fff" opacity="0.3"/>
-  <circle cx="60" cy="96" r="4" fill="#fff" opacity="0.3"/>
-  <circle cx="72" cy="96" r="4" fill="#fff" opacity="0.3"/>
-  <circle cx="84" cy="96" r="4" fill="#fff" opacity="0.3"/>
-  <circle cx="96" cy="96" r="4" fill="#fff" opacity="0.3"/>
-  <!-- Brand logo -->
-  <text x="80" y="130" font-family="'Outfit', sans-serif" font-size="10" font-weight="700" fill="#ffffff" text-anchor="middle">SOUNDBASS</text>
->>>>>>> 02725e5a37a609bd0b908f5659df73bb19141f88
 </svg>

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="180" viewBox="0 0 160 180">
   <rect x="20" y="10" width="120" height="160" rx="5" fill="#4a0e4e" stroke="#ddd" stroke-width="1"/>
   <!-- Spine effect -->
@@ -10,17 +9,4 @@
   <text x="80" y="85" font-family="'Outfit', sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">ACT</text>
   
   <circle cx="80" cy="125" r="15" fill="#ffffff" opacity="0.2"/>
-=======
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="180" viewBox="0 0 160 180">
-  <rect x="20" y="10" width="120" height="160" rx="5" fill="#4a0e4e" stroke="#ddd" stroke-width="1"/>
-  <!-- Spine effect -->
-  <rect x="20" y="10" width="10" height="160" fill="#000" opacity="0.15"/>
-  <!-- Cover design -->
-  <rect x="35" y="25" width="90" height="130" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.5"/>
-  <!-- Text -->
-  <text x="80" y="65" font-family="'Outfit', sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">CREATIVE</text>
-  <text x="80" y="85" font-family="'Outfit', sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">ACT</text>
-  
-  <circle cx="80" cy="125" r="15" fill="#ffffff" opacity="0.2"/>
->>>>>>> 02725e5a37a609bd0b908f5659df73bb19141f88
 </svg>
