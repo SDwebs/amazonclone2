@@ -1,3 +1,6 @@
+// --- Backend Configuration ---
+const BASE_URL = "https://amazonclone2-4.onrender.com";
+
 // --- Mock Product Database ---
 const productsDb = {
   // Smart Home Items
@@ -526,7 +529,7 @@ function setupAuth() {
     const name = elements.authName.value.trim();
 
     try {
-      const endpoint = isRegisterMode ? "/api/auth/register" : "/api/auth/login";
+      const endpoint = isRegisterMode ? `${BASE_URL}/api/auth/register` : `${BASE_URL}/api/auth/login`;
       const body = isRegisterMode ? { name, email, password } : { email, password };
 
       const res = await fetch(endpoint, {
@@ -609,7 +612,7 @@ function openAuthModal(registerMode) {
 }
 
 function handleLogout() {
-  fetch("/api/auth/logout", { method: "POST", credentials: "include" }).catch(() => {});
+  fetch(`${BASE_URL}/api/auth/logout`, { method: "POST", credentials: "include" }).catch(() => {});
   state.currentUser = null;
   updateHeaderForUser();
 }
@@ -649,7 +652,7 @@ async function fetchAndShowOrders() {
   elements.ordersList.innerHTML = '<p style="padding:1rem;">Loading orders...</p>';
   openModal(elements.ordersModal);
   try {
-    const res = await fetch("/api/orders", { credentials: "include" });
+    const res = await fetch(`${BASE_URL}/api/orders`, { credentials: "include" });
     const data = await res.json();
     if (!res.ok) {
       elements.ordersList.innerHTML = `<p style="padding:1rem;color:red;">${data.error || "Could not load orders."}</p>`;
