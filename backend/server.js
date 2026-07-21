@@ -23,7 +23,7 @@ app.use(cors({
 }));
 
 // Serve static frontend
-const FRONTEND_DIR = path.join(__dirname, '..');
+const FRONTEND_DIR = path.join(__dirname, '..', 'frontend');
 app.use(express.static(FRONTEND_DIR));
 
 // API Routes

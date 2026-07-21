@@ -19,7 +19,7 @@ app.use(cookieParser());
 app.use(cors({ origin: `http://localhost:${PORT}`, credentials: true }));
 
 // Serve static frontend
-const FRONTEND_DIR = path.join(__dirname, '..');
+const FRONTEND_DIR = path.join(__dirname, 'frontend');
 app.use(express.static(FRONTEND_DIR));
 
 // API Routes
